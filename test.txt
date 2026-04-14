@@ -1,0 +1,7 @@
+这是一个测试文档，用于验证RAG问答系统。
+
+RAG（Retrieval-Augmented Generation）是一种结合检索和生成的AI技术。
+
+它可以帮助用户基于文档内容进行问答。
+
+这个系统使用Chroma作为向量数据库，Ollama作为LLM。

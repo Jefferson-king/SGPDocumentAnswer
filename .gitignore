@@ -1,0 +1,39 @@
+# Dependencies
+node_modules/
+*/node_modules/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Build outputs
+dist/
+build/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Chroma
+.chroma/
+chroma-data/
+
+# Uploads
+uploads/
+
+# Runtime data
+data/
+
+# Local logs / temp files
+server.out.log
+server.err.log
+tmp*.log
