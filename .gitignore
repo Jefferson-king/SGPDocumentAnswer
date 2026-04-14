@@ -32,6 +32,7 @@ uploads/
 
 # Runtime data
 data/
+笔记/
 
 # Local logs / temp files
 server.out.log
